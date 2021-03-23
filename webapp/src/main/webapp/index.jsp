@@ -1,8 +1,8 @@
-<h1> Welcome Twelve Tribes </h1>
-<h2> Setup and deploy using jenkins pipeline to AWS EC2 </h2>
-<h3> By Chukwuebuka Jehu Ben Israel </h3>
+<h1> Welcome To My Tutorial on CI/CD Automation </h1>
+<h2> Setup and deploy using jenkins pipeline to AWS EC2 With Webhook Automation </h2>
+<h3> By Matai Ben Israel </h3>
 
-<h3> this is a test </h3>
+<h3> This is a Test Deployment </h3>
 
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
